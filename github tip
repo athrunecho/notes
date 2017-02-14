@@ -1,0 +1,7 @@
+git staus
+
+git add (-i)
+
+git commit -m ""
+
+git push (HEAD:)
